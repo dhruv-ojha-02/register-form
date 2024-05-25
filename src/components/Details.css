@@ -1,0 +1,33 @@
+/* Container styles */
+div {
+    max-width: 600px;
+    margin: 20px auto; /* Added top margin for extra spacing */
+    padding: 20px;
+    padding-top: 40px; /* Added top padding */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f0f8ff; /* Light blue background */
+  }
+  
+  /* Header styles */
+  h2 {
+    text-align: center;
+    color: #2c3e50; /* Darker blue color */
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph styles */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2c3e50; /* Darker blue color */
+    margin: 8px 0;
+  }
+  
+  /* Additional styles for better appearance */
+  p span {
+    color: #000000;
+    font-weight: bold;
+  }
+  
